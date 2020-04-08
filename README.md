@@ -1,2 +1,2 @@
-# One_Time_Password_OTP-SpringBoot
+- see the article on medium [Create One Time Password API](https://medium.com/@__diffa/create-one-time-password-api-2285237f8656?source=friends_link&sk=46f8d7fcd33ba228c11fc4cbb7d6aa53)
 - Uses [TextLocal](https://www.textlocal.com/integrations/api/) for SMS Gateway
